@@ -12,9 +12,9 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 | 4      | Análise Estatística de Dados: Plano Megaline       | [Ver projeto](https://github.com/gschmidel19/Sprint_4_Megaline/tree/main/Sprint_4_Megaline) |
 | 5      | Dashboard Interativo com Streamlit                 | [Ver projeto](https://testeaula-vadtlkgochzupctcfyxgp6.streamlit.app) |
 | 6      | Análise de Vendas de Jogos: Ice Game Store         | [Ver projeto](https://github.com/gschmidel19/Sprint_6_VideoGame_Sales/tree/main/Sprint_6_VideoGame_Sales) |
-| 7      | Análise do App Zuber: Comportamento de Usuários    | [Ver projeto](https://github.com/gschmidel19/Sprint_7_Zuber) |
+| 7      | Análise de Dados de Compartilhamento de Caronas: Zuber | [Ver projeto](https://github.com/gschmidel19/Sprint_7_Zuber) |
 | 8      | Otimização de Despesas de Marketing: Y.Afisha      | [Ver projeto](https://github.com/gschmidel19/Sprint_8_YAfisha) |
-| 9      | Priorização de Hipóteses e Análise de Teste A/B    | [Ver projeto](https://github.com/gschmidel19/Sprint_9_AB_Testing) |
+| 9      | Priorização de Hipóteses e Análise de Teste A/B    | [Ver projeto](https://github.com/gschmidel19/Sprint_9_Hypotheses_AB_Test_Analysis/tree/main/Sprint_9_Hypotheses_AB_Test_Analysis)|
 | 10     | Pesquisa de Mercado para Cafeteria Automatizada    | [Ver projeto](https://github.com/gschmidel19/Sprint_10_Restaurants/tree/main/Sprint_10_Restaurants) |
 
 ## 🧰 Tecnologias
