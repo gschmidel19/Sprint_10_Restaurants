@@ -1,4 +1,5 @@
-# Projetos do Bootcamp de Análise de Dados — TripleTen
+# Projeto 10 — Pesquisa de Mercado para Cafeteria Automatizada
+
 
 Repositório com os projetos desenvolvidos durante o curso de formação em Análise de Dados da [TripleTen](https://tripleten.com).
 
