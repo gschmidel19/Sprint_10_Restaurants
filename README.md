@@ -15,7 +15,7 @@ Repositório com os projetos desenvolvidos durante o curso de formação em Aná
 | 7      | Análise do App Zuber: Comportamento de Usuários    | [Ver projeto](https://github.com/gschmidel19/Sprint_7_Zuber) |
 | 8      | Otimização de Despesas de Marketing: Y.Afisha      | [Ver projeto](https://github.com/gschmidel19/Sprint_8_YAfisha) |
 | 9      | Priorização de Hipóteses e Análise de Teste A/B    | [Ver projeto](https://github.com/gschmidel19/Sprint_9_AB_Testing) |
-| 10     | Pesquisa de Mercado para Cafeteria Automatizada    | [Ver projeto](https://github.com/gschmidel19/Sprint_10_Restaurants) |
+| 10     | Pesquisa de Mercado para Cafeteria Automatizada    | [Ver projeto](https://github.com/gschmidel19/Sprint_10_Restaurants/tree/main/Sprint_10_Restaurants) |
 
 ## 🧰 Tecnologias
 
